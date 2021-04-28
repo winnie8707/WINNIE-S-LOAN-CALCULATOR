@@ -1,0 +1,26 @@
+.output {
+    font-weight:bold;
+  }
+  #payment {
+    text-decoration:underline;
+    color:green;
+  }
+  #total {
+    text-decoration:underline;
+    color:blue;
+  }
+  #totalinterest {
+    text-decoration:underline;
+    color:brown;
+  }
+  
+  th, td {
+    vertical-align: top;
+  }
+  body{
+      background-image: url(../../www/img/cal3.jpeg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      color:black;
+      align-content: center;
+      }
